@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeConditionalRadioButton", "ChallengeConditionalRadioButton\ChallengeConditionalRadioButton.csproj", "{D4B90CEF-6733-4248-8B03-5E3EE88758DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4B90CEF-6733-4248-8B03-5E3EE88758DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B90CEF-6733-4248-8B03-5E3EE88758DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B90CEF-6733-4248-8B03-5E3EE88758DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B90CEF-6733-4248-8B03-5E3EE88758DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF4A92F0-1B0C-458A-B10F-D8DBF37EEE1C}
+	EndGlobalSection
+EndGlobal
